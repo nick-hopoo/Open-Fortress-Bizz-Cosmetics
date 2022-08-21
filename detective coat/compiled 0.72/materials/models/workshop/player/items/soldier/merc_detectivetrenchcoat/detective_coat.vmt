@@ -1,5 +1,4 @@
-"LightmappedGeneric"
+"vertexlitgeneric"
 {
 	"$basetexture" "models/workshop/player/items/soldier/merc_detectivetrenchcoat/detective_coat"
-	"$translucent" 1
 }
