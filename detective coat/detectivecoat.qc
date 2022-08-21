@@ -20,9 +20,9 @@ $cdmaterials "models\player\mercenary\"
 
 $texturegroup "skinfamilies"
 {
-	{ "merc_detectivetrenchcoat_red"    "merc_pants_red"    }
-	{ "merc_detectivetrenchcoat_blue"   "merc_pants_blue"   }
-	{ "merc_detectivetrenchcoat_custom" "merc_pants_custom" }
+	{ "detective_coat_red"}
+	{ "detective_coat_blue"}
+	{ "detective_coat_custom"}
 }
 
 $cbox 0 0 0 0 0 0
